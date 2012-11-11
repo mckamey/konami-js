@@ -1,5 +1,5 @@
 /**
- * @license konami.js v1.0.0
+ * @license konami-js v1.0.0
  * http://mck.me/mit-license
  */
 var Konami = {};

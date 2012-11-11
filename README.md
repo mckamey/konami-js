@@ -31,3 +31,7 @@ Alternatively, you can specify [a different keyCode sequence](http://en.wikipedi
 			})
 	
 	);
+
+
+[Try it out!](http://mckamey.github.com/konami-js/)
+-----------
