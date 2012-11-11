@@ -1,5 +1,5 @@
 /**
- * @license konami-js v1.0.0
+ * @license konami-js v1.0.1
  * http://mck.me/mit-license
  */
 var Konami = {};
@@ -25,7 +25,7 @@ var Konami = {};
 			e = (e || window.event);
 			e = (e.keyCode || e.which || e);
 
-			if (e === sequence[state]) {
+			if (e === sequence[state] || e === sequence[(state = 0)]) {
 				// move next and peek
 				var action = sequence[++state];
 
@@ -36,10 +36,10 @@ var Konami = {};
 
 				// fire action
 				action();
-			}
 
-			// reset when sequence completed or broken
-			state = 0;
+				// reset when sequence completed
+				state = 0;
+			}
 		};
 	};
 
