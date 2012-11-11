@@ -1,7 +1,7 @@
 The Konami Code for JavaScript
 ==============================
 
-Konomi.js is a tiny JavaScript implementation of the [Konami Code](http://en.wikipedia.org/wiki/Konami_Code), but also monitors *any* arbitrary keyboard sequence.
+Konami-js is a tiny JavaScript implementation of the [Konami Code](http://en.wikipedia.org/wiki/Konami_Code), but also monitors *any* arbitrary keyboard sequence.
 
 &#8593; &#8593; &#8595; &#8595; &#8592; &#8594; &#8592; &#8594; B A
 
