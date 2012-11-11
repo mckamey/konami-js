@@ -1,4 +1,4 @@
-The Konami Code for JavaScript
+[The Konami Code for JavaScript](http://mckamey.github.com/konami-js/)
 ==============================
 
 Konami-js is a tiny JavaScript implementation of the [Konami Code](http://en.wikipedia.org/wiki/Konami_Code), but also monitors *any* arbitrary keyboard sequence.
