@@ -1,0 +1,29 @@
+{
+  "name": "konami.js",
+  "version": "1.0.1",
+  "description": "Konami-js is a micro implementation of the Konami Code for easter eggs, but also listens for any arbitrary keyboard sequence.",
+  "main": "konami.js",
+  "keywords": [
+    "konami",
+    "contra",
+    "code",
+    "easter-egg",
+    "easter",
+    "egg",
+    "hidden",
+    "surprise",
+    "joke"
+  ],
+  "authors": [
+    "Stephen M. McKamey (http://mck.me)"
+  ],
+  "license": "MIT",
+  "homepage": "http://mckamey.github.io/konami-js/",
+  "ignore": [
+  	"./!(konami.js)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mckamey/konami-js.git"
+  }
+}
